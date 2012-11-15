@@ -28,7 +28,7 @@
 body {
 	background-color: #f7f7f7;
 	margin: 10px;
-	background-image: url('./snow.png'), url('./snow3.png'), url('./snow2.png');
+	background-image: url('https://raw.github.com/tatsuru-wakimoto/css-test/master/snow.png'), url('https://raw.github.com/tatsuru-wakimoto/css-test/master/snow3.png'), url('https://raw.github.com/tatsuru-wakimoto/css-test/master//snow2.png');
 	
 	-webkit-animation: snow 20s linear infinite;
 	-moz-animation: snow 20s linear infinite;
